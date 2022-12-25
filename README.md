@@ -1,3 +1,3 @@
 # repository
-# sqweqwe
+# for stepik lessons
 print('hello')
